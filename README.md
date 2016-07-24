@@ -5,10 +5,10 @@ Node backend RESTful Service.
 
 __Technologies i have used__
 
-1.Node
-2.Mongo DB
-3.Mongoose
-4.Express JS
+1. Node
+2. Mongo DB
+3. Mongoose
+4. Express JS
 
 If you like to clone this project use the below comment,
 
